@@ -1,3 +1,4 @@
+This project involves recreating a gven timetable layout using HTML and CSS. The main purpose is to demonstrate understanding of layout techniques and styling.![Peter_Kiprotich](https://github.com/user-attachments/assets/996b9ae7-f526-4c3b-997d-b9b52c66a017)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Peterkiprotich
 ======================================================================================================================================
 
